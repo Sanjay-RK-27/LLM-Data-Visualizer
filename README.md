@@ -1,8 +1,3 @@
----
-title: "LLM - Data Visualizer"
-output: github_document
----
-
 # AI Data Visualization Agent
 
 A minimalistic Streamlit-based AI-powered application that understands natural language queries and generates appropriate data visualizations using large language models (LLMs).
